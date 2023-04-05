@@ -14,7 +14,7 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20">
-        I’m an inquisitive, energetic level 300 computer science student, 
+        I’m an inquisitive, energetic computer science student, 
         with a strong foundation in math, programming logic and cross-platform coding. 
         I’m seeking to leverage solid development skills with a focus of collaboration,
          communication, passion, and creativity as a programmer.
