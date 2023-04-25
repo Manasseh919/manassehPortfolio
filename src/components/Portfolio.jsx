@@ -6,7 +6,7 @@ import React from "react";
 // import reactSmooth from "../assets/portfolio/reactSmooth.jpg";
 // import reactWeather from "../assets/portfolio/reactWeather.jpg";
 import lawfirm from "../assets/portfolio/lawfirm.png";
-import church from "../assets/portfolio/church.png";
+
 import admin from "../assets/portfolio/admin.png"
 import shop from "../assets/portfolio/main.png"
 import backend from "../assets/portfolio/backend.png"
