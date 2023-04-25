@@ -5,7 +5,11 @@ import React from "react";
 // import reactParallax from "../assets/portfolio/reactParallax.jpg";
 // import reactSmooth from "../assets/portfolio/reactSmooth.jpg";
 // import reactWeather from "../assets/portfolio/reactWeather.jpg";
-import lawfirm from "../assets/portfolio/lawfirm.png"
+import lawfirm from "../assets/portfolio/lawfirm.png";
+import church from "../assets/portfolio/church.png";
+import admin from "../assets/portfolio/admin.png"
+import shop from "../assets/portfolio/main.png"
+import backend from "../assets/portfolio/backend.png"
 
 const Portfolio = () => {
   const portfolios = [
@@ -15,20 +19,20 @@ const Portfolio = () => {
     },
     // {
     //   id: 2,
-    //   src: reactParallax,
+    //   src: church,
     // },
-    // {
-    //   id: 3,
-    //   src: navbar,
-    // },
-    // {
-    //   id: 4,
-    //   src: reactSmooth,
-    // },
-    // {
-    //   id: 5,
-    //   src: installNode,
-    // },
+    {
+      id: 3,
+      src: shop,
+    },
+    {
+      id: 4,
+      src: admin,
+    },
+    {
+      id: 5,
+      src: backend,
+    },
     // {
     //   id: 6,
     //   src: reactWeather,
